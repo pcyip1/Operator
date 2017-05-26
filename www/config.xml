@@ -13,4 +13,5 @@
 		    <access origin="*"/>
  <plugin name="cordova-plugin-whitelist" version="1" />
     <allow-intent href="http://*/*" />
+	<plugin name="it.witek.cordova.plugin.background-mode" spec="0.6.3" source="pgb" />
 </widget>
